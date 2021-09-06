@@ -50,7 +50,7 @@
     just fine, but any attempt to assign or access a value of another property that does not exist on itself will result in an exception being thrown.
 
 
-# WHY I USE A TRAIT
+# WHY I USED A TRAIT
 
     For the design I chose a trait because, while a simple class would have worked just as well, a trait, being what is is; a good way to extend the
     functionality of a class in PHP will ensure that individual classes in your project only use the trait when they require that functionality of
