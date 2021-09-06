@@ -1,4 +1,9 @@
 
+# FizzBuzz & Fibonacci solution UI URLs (no login required)
+ ```
+    http://127.0.0.1:8888/laravel/paylinkTask/public/home
+ ```
+
 # PHP-MagicGetterSetters-in-action
     I have used a Trait that has magic functions which can be reused by child classes. This trait is 'Adapter' found in App\Http\Helpers\Adapter.php
 
