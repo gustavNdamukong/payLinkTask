@@ -63,3 +63,6 @@
     objects subscribing to it.
 
     This is why I chose to use a trait for this MagicGetterSetter application.
+
+# TESTS
+    The tests are located in tests\Feature
